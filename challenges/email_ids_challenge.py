@@ -38,3 +38,4 @@ print(emails)
 # 2.1 TODO: Use a "for" loop to go over each name in the names list
 # 2.2 TODO: Inside the "for" loop, create the email id by re-using the logic from Question 1 and...
 # 2.3 TODO: ..add the email to the emails list
+ 
